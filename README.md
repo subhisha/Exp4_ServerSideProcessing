@@ -137,10 +137,12 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-Screenshot (24).png
+
+![alt text](<Screenshot (23).png>)
 
 ## HOMEPAGE:
-Screenshot (23).png
+
+![alt text](<Screenshot (24).png>)
 
 
 ## RESULT:
