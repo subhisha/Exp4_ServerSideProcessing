@@ -134,14 +134,14 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('bmi', views.bmi_calculator, name='bmi'),
 ]
-
+```
 ## SERVER SIDE PROCESSING:
+![alt text](<Screenshot (24).png>)
 
-<img width="1920" height="1080" alt="Screenshot (23)"
 
 ## HOMEPAGE:
+![alt text](<Screenshot (23).png>)
 
-<img width="1920" height="1080" alt="Screenshot (24)" 
 
 
 ## RESULT:
