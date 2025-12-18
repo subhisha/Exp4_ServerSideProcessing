@@ -135,15 +135,13 @@ urlpatterns = [
     path('bmi', views.bmi_calculator, name='bmi'),
 ]
 
-
 ## SERVER SIDE PROCESSING:
 
-<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/174066a8-6e57-4555-8b96-419a755a1801" />
-
+<img width="1920" height="1080" alt="Screenshot (23)"
 
 ## HOMEPAGE:
 
-<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/5927df06-5629-4d93-b7a6-a9acd4c9ea38" />
+<img width="1920" height="1080" alt="Screenshot (24)" 
 
 
 ## RESULT:
